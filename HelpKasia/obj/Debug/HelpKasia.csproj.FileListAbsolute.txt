@@ -1,0 +1,10 @@
+C:\Users\swdow\source\repos\HelpKasia\HelpKasia\bin\Debug\HelpKasia.exe.config
+C:\Users\swdow\source\repos\HelpKasia\HelpKasia\bin\Debug\HelpKasia.exe
+C:\Users\swdow\source\repos\HelpKasia\HelpKasia\bin\Debug\HelpKasia.pdb
+C:\Users\swdow\source\repos\HelpKasia\HelpKasia\obj\Debug\HelpKasia.csproj.AssemblyReference.cache
+C:\Users\swdow\source\repos\HelpKasia\HelpKasia\obj\Debug\HelpKasia.Form1.resources
+C:\Users\swdow\source\repos\HelpKasia\HelpKasia\obj\Debug\HelpKasia.Properties.Resources.resources
+C:\Users\swdow\source\repos\HelpKasia\HelpKasia\obj\Debug\HelpKasia.csproj.GenerateResource.cache
+C:\Users\swdow\source\repos\HelpKasia\HelpKasia\obj\Debug\HelpKasia.csproj.CoreCompileInputs.cache
+C:\Users\swdow\source\repos\HelpKasia\HelpKasia\obj\Debug\HelpKasia.exe
+C:\Users\swdow\source\repos\HelpKasia\HelpKasia\obj\Debug\HelpKasia.pdb
